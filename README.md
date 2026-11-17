@@ -43,7 +43,7 @@ My primary interest lies in **Android Development**, particularly Kotlin, Jetpac
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,git,github,postman,figma,firebase,roboflow&perline=10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,postman,firebase,roboflow&perline=10" />
 </p>
 
 **Other Technologies:**

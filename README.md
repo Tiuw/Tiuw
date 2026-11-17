@@ -32,7 +32,7 @@ My primary interest lies in **Android Development**, particularly Kotlin, Jetpac
   <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css&perline=15" />
 </p>
 
-**Database & Cloud**
+**Database**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql&perline=15" />
 </p>

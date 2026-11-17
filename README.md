@@ -43,7 +43,8 @@ My primary interest lies in **Android Development**, particularly Kotlin, Jetpac
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,android studio" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
 **Other Technologies:**

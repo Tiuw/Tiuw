@@ -10,7 +10,7 @@
 
 I'm an Informatics undergraduate passionate about building modern mobile applications and developing software solutions that solve real-world problems.
 
-My primary interest lies in **Android Development**, particularly Kotlin, Jetpack Compose, Clean Architecture, and modern Android technologies. I also enjoy exploring backend development, artificial intelligence, and full-stack technologies.
+My primary interest lies in **Android Development**, particularly Kotlin, Jetpack Compose, Clean Architecture, and modern Android technologies. I also enjoy exploring artificial intelligence, and full-stack technologies.
 
 - 🔭 Currently focusing on Android Development & Software Engineering
 - 🌱 Exploring Advanced Kotlin, Jetpack Compose, and scalable architecture

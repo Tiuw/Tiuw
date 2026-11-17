@@ -22,33 +22,27 @@ My primary interest lies in **Android Development**, particularly Kotlin, Jetpac
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
-
+**Mobile Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter&perline=15" />
 </p>
 
-### Frontend & Backend
-
+**Frontend & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css&perline=15" />
 </p>
 
-### Database & Cloud
-
+**Database & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql&perline=15" />
 </p>
 
-### Tools & Technologies
-
+**Tools & Technologies**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,postman,firebase,roboflow&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,roboflow&perline=15" />
 </p>
 
-**Other Technologies:**
-
-Jetpack Compose · MVVM · Clean Architecture · Dependency Injection · Hilt · Room Database · REST API · TensorFlow Lite · Firebase Authentication
+**Other Technologies:** Jetpack Compose · MVVM · Clean Architecture · Dependency Injection · Hilt · Room Database · REST API · TensorFlow Lite · Firebase Authentication
 
 ---
 

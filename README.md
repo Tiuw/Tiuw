@@ -25,7 +25,7 @@ My primary interest lies in **Android Development**, particularly Kotlin, Jetpac
 ### Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,java" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter" />
 </p>
 
 ### Frontend & Backend
@@ -37,13 +37,13 @@ My primary interest lies in **Android Development**, particularly Kotlin, Jetpac
 ### Database & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,gcp" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql" />
 </p>
 
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,android studio" />
 </p>
 
 **Other Technologies:**
